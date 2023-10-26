@@ -26,9 +26,7 @@ public class SingletonObject{
      public Object clone() throws
     CloneNotSupportedException { throw new CloneNotSupportedException();
 }
-}
+
     public void showMessage(){
-        System.out.println("\nJe suis une instance mes
-        valeurs sont : x = " + this.x + " et y = " +
-        this.y);    }
+        System.out.println("\nJe suis une instance mes valeurs sont : x =  + this.x + 'et y ='  + this.y");    }
 }
