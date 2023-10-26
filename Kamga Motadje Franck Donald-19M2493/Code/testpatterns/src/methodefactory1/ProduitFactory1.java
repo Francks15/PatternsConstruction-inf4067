@@ -1,7 +1,6 @@
 package testpatterns.methodefactory1;
 
 
-
 public class ProduitFactory{
     public static final int TYPE_PRODUITA1=1;
     public static final int TYPE_PRODUITA2=2;
